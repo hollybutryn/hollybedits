@@ -1,7 +1,8 @@
-# About Me 
+[Home](./README.md) \| [About Me](./About.md) \| [Services Offered](./Services.md) \| [Contact Me](./Contact.md)
+
 <br>
 
-[Home](./README.md) \| [About Me](./About.md) \| [Services Offered](./Services.md) \| [Contact Me](./Contact.md)
+# About Me 
 
 <br>
 
