@@ -1,5 +1,7 @@
 # Services Offered
+*Before we work together, you may be asked to provide a sample of your work so I can provide you with an accurate estimate based on my rates.*
 
+<br>
 
 ## Proofreading 
 ### Basic edits that involve making minor changes to documents.  
