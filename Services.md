@@ -23,4 +23,4 @@ I will clarify your meaning and offer suggestions to rewrite your sentences.
 
 
 
-[Home](./README.md)  |  [About Me](./About.md)  |  [Services Offered](./Services.md)  |  [Contact Me](./Contact.md)
+[Home](./README.md) \| [About Me](./About.md) \| [Services Offered](./Services.md) \| [Contact Me](./Contact.md)
