@@ -1,10 +1,8 @@
-# Services Offered
-
-<br>
-
 [Home](./README.md) \| [About Me](./About.md) \| [Services Offered](./Services.md) \| [Contact Me](./Contact.md)
 
 <br>
+
+# Services Offered
 
 \** *Before we work together, you may be asked to provide a sample of your work so I can provide you with an accurate estimate based on my rates.*
 
