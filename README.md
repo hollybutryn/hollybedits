@@ -7,3 +7,5 @@ Holly Butryn | Freelance Copy-Editor & Proofreader <br>
 hollybedits@gmail.com  
 
 [About Me](./About.md)
+
+[Contact Me](./Contact.md)
