@@ -2,4 +2,4 @@
 
 ## Under Construction 
 
-[Home](./README.md)  |  [About Me](./About.md)  |  [Services Offered](./Services.md)  |  [Contact Me](./Contact.md)
+[Home](./README.md) \| [About Me](./About.md) \| [Services Offered](./Services.md) \| [Contact Me](./Contact.md)
