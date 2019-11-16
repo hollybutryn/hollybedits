@@ -7,4 +7,4 @@ hollybedits@gmail.com  
 
 [Services Offered](./Services.md)
 
-[Contact Me](./Contact.md)
+[Work With Me](./Contact.md)
