@@ -1,5 +1,5 @@
-# About Me :checkered_flag: 
+# About Me 
 
-## Under Construction :hammer_and_wrench:
+## Under Construction 
 
 [Home](./README.md)
