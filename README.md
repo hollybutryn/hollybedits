@@ -6,4 +6,4 @@ My name is Holly Butryn, and I am a freelance copy-editor and proofreader now ac
 Holly Butryn | Freelance Copy-Editor & Proofreader <br>
 hollybedits@gmail.com  
 
-[About Me](./about.md)
+[About Me](./About.md)
