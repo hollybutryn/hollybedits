@@ -8,4 +8,6 @@ hollybedits@gmail.com  
 
 [About Me](./About.md)
 
+[Services Offered](./Services.md)
+
 [Contact Me](./Contact.md)
