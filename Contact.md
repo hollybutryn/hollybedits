@@ -1,6 +1,6 @@
 # Contact Me
 
-I'd love to hear from you!
+I would love to hear from you!
 
 hollybedits@gmail.com
 
